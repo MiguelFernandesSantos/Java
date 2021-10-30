@@ -1,3 +1,11 @@
+//####################################################
+//                                                   #
+//    NOME: MIGUEL FERNANDES SANTOS.                 #
+//    DATA: 27/09/2021                               #
+//    PROJETO: Inteiro Quadrado.                     #
+//                                                   #
+//####################################################
+
 package ime_usp;
 import java.lang.Math;
 import java.util.Random;
