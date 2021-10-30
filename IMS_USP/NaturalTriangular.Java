@@ -1,3 +1,11 @@
+//####################################################
+//                                                   #
+//    NOME: MIGUEL FERNANDES SANTOS.                 #
+//    DATA: 27/09/2021                               #
+//    PROJETO: Natural Triangular.                   #
+//                                                   #
+//####################################################
+
 package ime_usp;
 import java.lang.Math;
 import java.util.Random;
